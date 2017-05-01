@@ -17,15 +17,12 @@ namespace Prvi_program
             int z;
             
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-            x = 30;
-=======
-            x = 7;
->>>>>>> parent of 3fe5d3f... Update Program.cs
-=======
+
+           
+
+          
             x = 40;
->>>>>>> origin/master
+
             y = x - 3;
             z = x + y;
 
