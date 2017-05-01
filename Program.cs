@@ -15,21 +15,10 @@ namespace Prvi_program
             int x;
             int y;
             int z;
-            
-
-
-           
-<<<<<<< HEAD
-          
-         
-
-            x = 50;
-=======
-
+ 
           
             x = 40;
 
->>>>>>> origin/master
             y = x - 3;
             z = x + y;
 
