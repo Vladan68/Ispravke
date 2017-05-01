@@ -17,7 +17,7 @@ namespace Prvi_program
             int z;
  
           
-            x = 2000;
+            x = 2500;
 
             y = x - 3;
             z = x + y;
