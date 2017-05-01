@@ -19,10 +19,17 @@ namespace Prvi_program
 
 
            
+<<<<<<< HEAD
           
          
 
             x = 50;
+=======
+
+          
+            x = 40;
+
+>>>>>>> origin/master
             y = x - 3;
             z = x + y;
 
